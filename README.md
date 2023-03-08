@@ -20,12 +20,12 @@ Scaling the numerical variables
   <img width="" height="" src="https://github.com/AntonyGN/Heterogeneous-Ensemble/blob/main/images/5.png">
 </p>
 
-# Step 2 Spliting the data into training and testing tests
-Import the necessary libraries
+# Step 2 Splitting the data into training and testing tests
+Import the necessary libraries first
 <p align="center">
   <img width="" height="" src="https://github.com/AntonyGN/Heterogeneous-Ensemble/blob/main/images/6.png">
 </p>
-Split the data into training and testing tests
+Splitting the data into training and testing tests
 <p align="center">
   <img width="" height="" src="https://github.com/AntonyGN/Heterogeneous-Ensemble/blob/main/images/7.png">
 </p>
